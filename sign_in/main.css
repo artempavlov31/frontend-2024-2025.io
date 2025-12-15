@@ -19,6 +19,7 @@ body{
     padding: 1rem;
     display: flex;
     gap:1rem;
+    border-radius: 0.75rem;
     flex-direction: column;
     h4{
         font-weight: semi-bold;
